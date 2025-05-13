@@ -155,15 +155,13 @@ cd SQL-for-Data-Analysis
 
 ### Who am I?
 
-My name is Ashish and I'm an AI Trainer. I've trained more than 20000 students on different technologies like AI, Data Science, Computer Vision, and the Internet of Things. I'm passionate about teaching and giving students the skillset to learn cutting-edge skills.
+Hi, I'm Vivek, a college student pursuing my studies in Artificial Intelligence and Data Science. I'm passionate about learning cutting-edge technologies like AI, Data Science, Computer Vision, and the Internet of Things (IoT).
 
 -----
 
 ### Other Useful Links:
 
-LinkedIn - https://linkedin.com/in/ashish-jangra 
+LinkedIn - https://www.linkedin.com/in/vivek-kumar-282102226/
 
-Instagram - https://instagram.com/ashish_zangra 
-
-Facebook - https://facebook.com/ashishzangra
+Instagram - https://www.instagram.com/erbrahman_vivek/ 
 
